@@ -4,3 +4,6 @@ h1{
 body{
     background: blue;
 }
+strong{
+    font-weight: bold;
+}
